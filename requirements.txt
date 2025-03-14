@@ -1,3 +1,5 @@
+
 customtkinter
 raylibpy
-pywin32
+win32gui
+win32con
