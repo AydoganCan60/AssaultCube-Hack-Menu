@@ -1,0 +1,3 @@
+customtkinter
+raylibpy
+pywin32
