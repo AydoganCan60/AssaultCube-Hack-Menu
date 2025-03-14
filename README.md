@@ -27,8 +27,22 @@ A custom hack menu for the game **AssaultCube** that provides a set of cheat fun
 
 You can install the dependencies by running:
 
+
+Setup Instructions
+
+    Clone the repository:
+
+git clone https://github.com/yourusername/AssaultCube-Hack-Menu.git
+
+Install dependencies using pip:
 ```bash
 pip install -r requirements.txt
 ```
+
+Run the application:
+```bash
+python main.py
+```
+
 [Watch Gameplay Video](https://vimeo.com/1065739110/f0fff0150f?ts=0&share=copy)
 
