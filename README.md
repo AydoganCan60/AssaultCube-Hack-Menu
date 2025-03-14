@@ -32,7 +32,7 @@ Setup Instructions
 Clone the repository:
 ```bash    
 git clone https://github.com/yourusername/AssaultCube-Hack-Menu.git
-```bash
+```
 
 Install dependencies using pip:
 ```bash
