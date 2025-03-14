@@ -1,0 +1,13 @@
+player_count=0x18AC0C
+entity_list=0x18AC04
+local_player=0x17E0A8
+view_matrix=0x17DFD0
+local_player_offset=0x17E0A8
+health_offset=0xEC
+armor_offset=0xF0
+assault_rifle_offset=0x140
+submachine_gun_offset=0x138
+sniper_offset=0x13C
+shotgun_offset=0x134
+pistol_offset=0x12C
+grenade_offset=0x144
