@@ -31,7 +31,7 @@ You can install the dependencies by running:
 Setup Instructions
 Clone the repository:
 ```bash    
-git clone https://github.com/yourusername/AssaultCube-Hack-Menu.git
+git clone https://github.com/AydoganCan60/AssaultCube-Hack-Menu.git
 ```
 
 Install dependencies using pip:
